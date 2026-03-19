@@ -1,0 +1,7 @@
+class outerClass {
+
+    // defining anonymous class
+    object1 = new Type(parameterList) {
+         // body of the anonymous class
+    };
+}
